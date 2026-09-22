@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6af584862d0829a53348726f",
+  "owner": "rrwvhebydh",
+  "repo": "page-843c4e48b6a0ad2a5c16c906",
+  "title": "RYM",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "843c4e48b6a0ad2a5c16c906",
+      "a": "RYM",
+      "b": "稳定全球clash加速器",
+      "entity": "RYM",
+      "brand": "RYM",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "afb4bc3d54c28960179fb266ea9aa65922ee5dc180a61abc531740bf3be72346",
+      "content": {
+        "primary_entity": "RYM",
+        "keyword1": "RYM",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，RYM 提供基础版、旗舰版与团队版三档套餐，月付与年付均可选择。基础版每月 100GB 流量、支持 3 台设备，适合个人日常浏览；旗舰版每月 300GB 流量、支持 5 台设备，并配备 IPLC 专线游戏加速优化与全节点原生流媒体解锁；团队版每月 1000GB 流量、支持 20 台设备，还提供 VIP 专属高带宽节点与企业定制路由。按年付可享基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，订阅导入 Clash、Shadowrocket、v2rayN 等客户端即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备规模",
+          "AI_HERO_INTRO": "RYM 面向需要稳定连接的用户提供 Clash 加速订阅，套餐按流量与设备数量区分，基础版适合个人单账号，旗舰版适合多设备同时在线，团队版面向小型协作场景。订阅地址可直接导入主流客户端，选择与设备数量匹配的档位即可。",
+          "AI_VISUAL_TITLE": "RYM 多设备订阅方案",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备与定制路由",
+          "AI_FEATURES_TITLE": "套餐选择与使用要点",
+          "AI_FEATURES_INTRO": "按设备数量、月流量和订阅周期三个维度匹配合适档位，避免流量闲置或设备超额。",
+          "AI_FEATURE_TITLE_1": "按设备数匹配档位",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按常用终端数量选择更合适。",
+          "AI_FEATURE_TITLE_2": "按流量需求选版本",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 兼顾视频与游戏，1000GB 满足多人共享与高频使用。",
+          "AI_FEATURE_TITLE_3": "年付更省订阅成本",
+          "AI_FEATURE_TEXT_3": "基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，按年付比逐月订阅更划算。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "桌面端可搭配 Clash，移动端可搭配 Shadowrocket 或 Clash 系客户端，具体可用版本以客户端自身的支持列表为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点类型上有明确差异，价格从 ¥15/月 到 ¥85/月，按年付均有优惠，可先确认设备数量再比对流量上限。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定套餐与设备需求，再依客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档并完成订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端版本，核对设备数量是否在套餐允许范围内。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅地址，按客户端文档说明更新节点列表后即可连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对档位稳定连接",
+          "AI_CLOSING_TEXT": "按设备数与流量需求选定套餐，导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可以按家中常用设备数量选择，手机、电脑和平板一般都需要同时连接。",
+          "AI_FAQ_ANSWER_2": "RYM 可在 iOS、Android、Windows 和 macOS 等系统上通过常见客户端导入订阅使用。具体支持情况和客户端下载方式请参考对应客户端的配置文档。",
+          "AI_FAQ_ANSWER_3": "各套餐都包含极速流量。基础版每月 100GB，适合轻度浏览；旗舰版每月 300GB，适合日常视频；团队版每月 1000GB，适合多设备高流量场景。",
+          "AI_FAQ_ANSWER_4": "RYM 支持月付和年付两种周期。年付方案通常更划算，例如基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "可以，同一订阅可以在多台设备上使用，但会占用对应套餐的设备在线数量。如果超出设备限制，建议升级套餐或切换设备使用。",
+          "AI_FAQ_QUESTION_1": "RYM 各套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "如何在不同系统上配置 RYM 订阅？",
+          "AI_FAQ_QUESTION_3": "不同套餐的流量额度有什么区别？",
+          "AI_FAQ_QUESTION_4": "RYM 支持哪些付费周期？年付是否更优惠？",
+          "AI_FAQ_QUESTION_5": "可以在多台设备上使用同一个 RYM 订阅吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "z8xoyj.cn",
+    "host": "z8xoyj.cn"
+  },
+  "file_hashes": {
+    "index.html": "68fa841ed898c44156dc31b0b106185c7565b5ed1d28e7a83a6c39899ac4208b",
+    "sitemap.xml": "bace1a4c742e02c40caa52652e96ddf270a916977c92caa8228a62fd6b05a14f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "547c4cfab38b0058bc59b5521a6b399ce3dd59954152e50a1d1c0dc443735f60",
+    "robots.txt": "d7381f2d2bc1d172c10c4c9a2668471bcef32882c746c37fa891c2a52c0ddce0",
+    "2e498ce1ebd3542bc5a1bc35f956743d.txt": "a477c8d53764994afd7055866858b44bbbbe0167bcd45ab4d0bc2b8b0a6deb8d"
+  },
+  "revision": "fa8adda728b75c0afb87f38f7f438bda1e284de55ea2be4e154ae242c9ce45dc"
+}
